@@ -18,15 +18,15 @@
 
 ## Содержание
 
-1. Аннотация
-2. Введение
-3. Математическая модель
-4. Архитектура и проектирование
-5. Реализация
-6. Тестирование
-7. Эксперименты и результаты
-8. Выводы
-9. Список литературы и приложения
+1. [Аннотация](https://github.com/GoDL1ghT/game-theory/blob/main/lab4/report.md#1-аннотация)
+2. [Введение](https://github.com/GoDL1ghT/game-theory/blob/main/lab4/report.md#2-введение)
+3. [Математическая модель](https://github.com/GoDL1ghT/game-theory/blob/main/lab4/report.md#3-математическая-модель)
+4. [Архитектура и проектирование](https://github.com/GoDL1ghT/game-theory/blob/main/lab4/report.md#4-архитектура-и-проектирование)
+5. [Реализация](https://github.com/GoDL1ghT/game-theory/blob/main/lab4/report.md#5-реализация)
+6. [Тестирование](https://github.com/GoDL1ghT/game-theory/blob/main/lab4/report.md#6-тестирование)
+7. [Эксперименты и результаты](https://github.com/GoDL1ghT/game-theory/blob/main/lab4/report.md#7-эксперименты-и-результаты)
+8. [Выводы](https://github.com/GoDL1ghT/game-theory/blob/main/lab4/report.md#8-выводы)
+9. [Список литературы и приложения](https://github.com/GoDL1ghT/game-theory/blob/main/lab4/report.md#9-список-литературы-и-приложения)
 
 ---
 
